@@ -1,0 +1,2 @@
+Así, se define por número primo a toda aquella cifra entera, es decir, que no tiene decimales, que no puede ser descompuesta en factores más pequeños, a excepción del 1 y de ellos mismos. Por ejemplo, el número 4 puede ser expresado como 2x2 (divisible por dos), por lo que no es primo.
+Los números primos son aquellos solo tienen 2 factores: 1 y ellos mismos. Por ejemplo, los primeros 5 números son 2, 3, 5, 7 y 11. En contraste, los números con más de 2 factores se llaman números compuestos.
