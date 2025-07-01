@@ -24,7 +24,13 @@ print(len(listas))
 print(max(listas))
 print(min(listas))
 
+print(sum(listas))
 
+# quiero obtener la lista de los cuadrados
+
+lista = [10,25,34] # [1,4,9]
+
+lista_copia = lista.copy()
 lista_copia *= 2
 print(lista_copia)
 
