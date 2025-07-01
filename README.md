@@ -26,4 +26,6 @@ para ejecutar un archivo podemos ejecutar el siguiente codigo
 
 > esto es una cita
 
+![imagen](github.png)
+
 
